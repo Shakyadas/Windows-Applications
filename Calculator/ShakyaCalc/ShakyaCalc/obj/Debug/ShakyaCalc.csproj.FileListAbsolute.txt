@@ -1,0 +1,9 @@
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\bin\Debug\ShakyaCalc.exe.config
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\bin\Debug\ShakyaCalc.exe
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\bin\Debug\ShakyaCalc.pdb
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\obj\Debug\ShakyaCalc.Form1.resources
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\obj\Debug\ShakyaCalc.Properties.Resources.resources
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\obj\Debug\ShakyaCalc.csproj.GenerateResource.cache
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\obj\Debug\ShakyaCalc.csproj.CoreCompileInputs.cache
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\obj\Debug\ShakyaCalc.exe
+C:\Users\SHAKYA DAS\source\repos\ShakyaCalc\ShakyaCalc\obj\Debug\ShakyaCalc.pdb
